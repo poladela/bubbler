@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bubbler</string>
+    <string name="score_text">Score</string>
+</resources>

@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\Users\\i3laptop\\AndroidStudioProjects\\bubbler\\sdk\\libcxx_helper\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\praca\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\i3laptop\\AndroidStudioProjects\\bubbler\\sdk\\.cxx\\Debug\\5e1v2s2h\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\praca\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\i3laptop\\AndroidStudioProjects\\bubbler\\sdk\\.cxx\\Debug\\5e1v2s2h\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\i3laptop\\AndroidStudioProjects\\bubbler\\sdk\\.cxx\\Debug\\5e1v2s2h\\arm64-v8a\\libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}
